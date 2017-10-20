@@ -11,10 +11,10 @@ This is part of the *"MRHPx Killer Process"* engine which serves to force stop t
 You can find more interesting tool like this at [MRHPx](http://www.mrhpx.com/) website.
 
 
-Ditulis dengan bahasa Assembly 32Bit (MASM) :joy:
+Ditulis pada tahun 2011 untuk member private donator forum pribadi saya yang saat itu masih aktif yaitu **CRACKadabra**, saat hostingnya masih ada di **astalavista**, hosting bareng **SnD team**, **bokiv**, dll, karena itu subdomainnya masih pakai subdomain astalavista, forum **binushacker** juga masih aktif pada saat itu, program ini ditulis dengan **bahasa Assembly 32Bit (MASM)** :joy:
 
 
-Ini *open source* silakan dimodifikasi dengan bebas dengan mencantumkan credit terhadap Saya :thumbsup:
+Ini *open source* silakan dimodifikasi dengan bebas tentunya dengan mencantumkan credit terhadap Saya :thumbsup:
 
 
 
